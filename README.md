@@ -2,7 +2,7 @@
 <a href='https://ko-fi.com/T6T61WAZYZ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 
-```markdown
+
 <!-- Security Badges -->
 ![Security Foundational](https://img.shields.io/badge/security-foundational-blue)
 
@@ -11,8 +11,8 @@
 
 <!-- Technology Badges -->
 ![License](https://img.shields.io/badge/license-MIT-yellow)
-```
-```markdown
+
+
 <!-- Security Badges -->
 ![Security Foundational](https://img.shields.io/badge/security-foundational-blue)
 ![Security Scanning](https://img.shields.io/badge/security-scanning-inactive-red)
@@ -29,7 +29,7 @@
 
 <!-- Community Badges -->
 ![Governance](https://img.shields.io/badge/governance-partial-orange)
-```
+
 
 
 **Core Badge Verification Workflow** (`.github/workflows/badge-verification.yml`):
