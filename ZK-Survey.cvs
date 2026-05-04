@@ -1,0 +1,31 @@
+SurveyID,Question,OptionA,OptionB,OptionC,OptionD
+ZK101,What is a zero-knowledge proof?,A way to prove knowledge without revealing it,A type of encryption,A blockchain,A smart contract
+ZK101,Which protocol uses zk-SNARKs?,Zcash,Bitcoin,Ethereum Classic,Litecoin
+ZK101,What does zk in zk-SNARK stand for?,Zero-Knowledge,Zero-Knowledgeable,Zebra-Knowledge,Zero-Knowledgeable Proof
+ZK101,What is the main benefit of zk-rollups?,Scalability,Mining rewards,Token issuance,Proof-of-work
+ZK101,Which layer do zk-rollups operate on?,Layer 2,Layer 1,Layer 0,Layer 3
+ZK101,What is a common use case for zk-proofs?,Private transactions,Token swaps,NFT minting,Staking
+ZK101,What is the role of a prover in zk-proofs?,Proves knowledge of a secret,Verifies transactions,Mines blocks,Creates tokens
+ZK101,What is the role of a verifier in zk-proofs?,Checks the proof,Sends tokens,Creates blocks,Generates keys
+ZK101,Which of these is a zk-rollup project?,zkSync,Uniswap,Chainlink,Aave
+ZK101,What is the GitDigital zk ecosystem focused on?,Privacy & scalability,NFT trading,Gaming,DeFi lending
+ZK202,What does zk-STARK stand for?,Zero-Knowledge Scalable Transparent Argument of Knowledge,Zero-Knowledge Secure Token Algorithm,Zero-Knowledge State Tracker,Zero-Knowledge Signature Tool
+ZK202,Which is more scalable: zk-SNARK or zk-STARK?,zk-STARK,zk-SNARK,Both equal,Neither
+ZK202,What is a trusted setup?,Initial setup for zk-SNARKs,Mining pool,Wallet creation,Smart contract deployment
+ZK202,Which cryptographic primitive is essential for zk-proofs?,Elliptic curves,SHA-256,AES,RSA
+ZK202,What is recursive zk-proof?,Proof of a proof,Proof of stake,Proof of work,Proof of identity
+ZK202,What is the main advantage of zk-STARKs over zk-SNARKs?,No trusted setup,Faster mining,Lower fees,More tokens
+ZK202,What is the size of zk-STARK proofs compared to zk-SNARKs?,Larger,Smaller,Same,Zero
+ZK202,What is the purpose of a verifier key?,To validate zk-proofs,To mine blocks,To encrypt data,To create tokens
+ZK202,Which of these is a zk identity protocol?,Polygon ID,Uniswap,Chainlink,SushiSwap
+ZK202,What does GitDigital zk focus on?,Decentralized privacy tools,Centralized finance,Gaming,NFT art
+ZK303,What is zk mining?,Mining with zero-knowledge proofs,Mining with ASICs,Proof-of-stake mining,Cloud mining
+ZK303,Which blockchain uses zk-rollups for scaling?,Ethereum,Bitcoin,Dogecoin,Monero
+ZK303,What is the benefit of zk identity?,Privacy-preserving authentication,Faster transactions,Lower gas fees,Token rewards
+ZK303,What is a Merkle tree used for in zk-proofs?,Efficient data verification,Token staking,Smart contract execution,Mining
+ZK303,What is the main privacy benefit of zk-proofs?,No data leakage,Faster blocks,More tokens,Higher gas fees
+ZK303,Which of these is a zk-based wallet?,Zerion,MetaMask,Phantom,Trust Wallet
+ZK303,What is the role of GitDigital in zk ecosystems?,Building privacy-first tools,Creating NFTs,Running exchanges,Providing loans
+ZK303,What is the difference between optimistic and zk rollups?,Fraud vs validity proofs,Speed,Token type,Mining algorithm
+ZK303,What is the challenge with zk-STARKs?,Large proof size,Low security,Slow speed,High gas fees
+ZK303,Which of these is a GitDigital zk feature?,Encrypted messaging,Token swaps,NFT minting,Yield farming
