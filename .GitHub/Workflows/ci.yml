@@ -1,0 +1,27 @@
+name: Architecture Docs CI
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  docs-checks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install markdownlint
+        run: |
+          npm install -g markdownlint-cli
+
+      - name: Lint Markdown
+        run: markdownlint "**/*.md"
+
+      - name: Check for broken links
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: --verbose --no-progress "./**/*.md"
